@@ -6,6 +6,6 @@ This bot makes us to make a resume in  a simple and easy manner
 https://www.youtube.com/watch?v=cU-yFbzsWao&feature=youtu.be
 
 # Block Diagram
-[Presentation5.jpg]
+![Presentation5.jpg]
 
 
